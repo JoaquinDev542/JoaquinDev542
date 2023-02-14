@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm JoaquinDev542</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 Project [Anco Company](https://joaquindev542.github.io/AncoCompany/)
+- 🔭 Latest projects [Anco Company](https://joaquindev542.github.io/AncoCompany/)
+
+- 🔭 Latest projects [Minimalist Porfolio](https://joaquindev542.github.io/porfolio2023/)
+
+- 🔭 Latest projects [Rock y Vida](https://github.com/JoaquinDev542/rock-vida)
 
 - 🌱 I’m currently learning **React**
-
-- 🔭 Project [Minimalist Porfolio](https://joaquindev542.github.io/porfolio2023/)
-
-- 🔭 Project [Rock y Vida](https://github.com/JoaquinDev542/rock-vida)
 
 - 👨‍💻 All of my projects are available at [https://joaquindev542.github.io/porfolio2023/](https://joaquindev542.github.io/porfolio2023/)
 
