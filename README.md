@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://joaquindev542.github.io/porfolio2023/](https://joaquindev542.github.io/porfolio2023/)
 
-- 💬 Ask me about **Html, Pug, CSS, SASS, JavaScript**
+- 💬 Ask me about **Html, Pug, CSS, SASS, JavaScript , Figma, Canva**
 
 - 📫 How to reach me **joaquingdeveloper@gmail.com**
 
