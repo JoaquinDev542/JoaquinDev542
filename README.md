@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm JoaquinDev542</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 Latest projects [Anco Company](https://joaquindev542.github.io/AncoCompany/)
+- 🔭 Latest projects [Anco Company](https:/ancocompany.tech)
 
-- 🔭 Latest projects [Minimalist Porfolio](https://joaquindev542.github.io/porfolio2023/)
+- 🔭 Latest projects [Minimalist Porfolio](https://joaquingarcia.tech)
 
 - 🔭 Latest projects [Rock y Vida](https://github.com/JoaquinDev542/rock-vida)
 
