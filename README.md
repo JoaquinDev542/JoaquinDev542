@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://joaquindev542.github.io/porfolio2023/](https://joaquindev542.github.io/porfolio2023/)
+- 👨‍💻 All of my projects are available at [https://joaquingarcia.tech](https://joaquingarcia.tech)
 
 - 💬 Ask me about **Html, Pug, CSS, SASS, JavaScript , Figma, Canva**
 
